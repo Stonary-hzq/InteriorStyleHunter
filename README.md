@@ -19,3 +19,17 @@ Contributor: Stonary-hzq, liukarlie
   4. SVM perform best, so further improve SVM
 
 # Make user interface
+  1. Download the zip file, final work, and unzip it.
+  2. Open UserInterphase.ipynb.
+     
+     Before running the application, you should ensure that you installed the required package indicated in the third cell in UserInterphase.ipynb. If you don’t have it, please uncomment it.
+
+     If you use Colab, uncomment the code in the first cell, then change the module_dir to your drive location.
+
+     If you are running on Jupyter notebook, then change the module_dir to your file location. 
+
+  3. Then click the “Run All” button, the application will run.
+
+  4. During the application run, the users are required to input the image through image uploading or pasting URL, the input options are on the right hand side. 
+
+  5. Final output will indicate your style and provide a recommended house design image.
