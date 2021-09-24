@@ -1,0 +1,14 @@
+Instruction 
+
+Download the zip file and unzip it.
+Open UserInterphase.ipynb.
+Before running the application, you should ensure that you installed the required package indicated in the third cell in UserInterphase.ipynb. If you don’t have it, please uncomment it.
+If you use Colab, uncomment the code in the first cell, then change the module_dir to your drive location.
+
+If you are running on Jupyter notebook, then change the module_dir to your file location. 
+
+Then click the “Run All” button, the application will run.
+During the application run, the users are required to input the image, the input options are on the right hand side. 
+
+Final output will indicate your style and provide a recommended house design image.
+
