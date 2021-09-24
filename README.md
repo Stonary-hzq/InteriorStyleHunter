@@ -13,6 +13,7 @@ AI technology to infer a favorite interior style based on any colorful pictures
 # model train and verify process
   1. literature review about pictures classifications (shown in reference)
   2. Chose efficient net, SVM, CNN to train and verify
-  3. SVM perform best, so further improve SVM
+  3. Extract common features in paintings and interior styles eg: hsv color
+  4. SVM perform best, so further improve SVM
 
 # make user interface
