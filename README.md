@@ -1,5 +1,6 @@
 # InteriorStyleHunter
 AI technology to infer a favorite interior style based on any colorful pictures
+Full explaination for our project is presented in Final report.pdf :smile:
 
 Contributor: Stonary-hzq, liukarlie
 
